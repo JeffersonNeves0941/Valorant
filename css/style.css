@@ -1,0 +1,83 @@
+header{
+    width: 100vw;
+    height:102px;
+    background-color: #FF4655;
+}
+
+.riot img{
+    width:165px ;
+    height:55px;   
+    position: absolute;
+    margin-top:23px ;
+    margin-left: 64px;
+
+}
+
+.valorant img{
+    width: 66.95px;
+    height:55px;
+    position: absolute;
+    margin-top: 23px;
+    margin-left:293px;
+
+}
+
+.vector-1 div{
+    background-color: #131723;
+    height:62.5px ;
+    width:4px;
+    margin-top: 20px;
+    margin-left: 261px;
+    border-radius: 3.5px;
+    position: absolute;
+}
+body{
+    background-color: #0F1923;
+
+}
+
+.fundo img{
+    width:1900px;
+    position: absolute;
+    left: 200px;
+    top:170px ;
+
+
+}
+.personagem img{
+    width: 900px;
+    position: absolute;
+    top:71px ;
+    left: 1750px;
+
+
+
+}
+
+.vava img{
+    width: 130px;
+    position: absolute;
+    left: 2650px;
+    top:330px ;
+
+
+}
+
+.retangulo{
+    height:120px;
+    width:400px;
+    background-color: #FF4655;
+    position: absolute;
+    top: 700px;
+    left:1250px;
+
+
+
+}
+.retangulo h1{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    color: white;
+    font-family: ;
+}
